@@ -204,8 +204,6 @@ class DatePicker extends Component {
 
                     }
                 })()}
-
-
             </div>
 
         )
