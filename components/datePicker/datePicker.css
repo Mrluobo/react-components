@@ -1,0 +1,11 @@
+.container {
+    width:400px;
+    height:400px;
+}
+.container td{
+    text-align: center;
+}
+.disabled {
+    background:#e5e5e5;
+    color:#808080;
+}
